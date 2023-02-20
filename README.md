@@ -7,4 +7,4 @@ My name is Bruno Meilick.
 - You can hire me to [improve the performance](https://forum.getkirby.com/t/remember-this-caching-in-kirby/23705) of your Kirby 3 CMS project.
 <!-- - and small indie games on [Itch.io](https://bnomei.itch.io). -->
 
-<div><img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnomei&layout=compact&langs_count=7&border_color=22272e&bg_color=22272e&title_color=8f989f&text_color=8f989f&icon_color=b55c5e"/><img height="120em" src="https://github-readme-stats.vercel.app/api?username=bnomei&show_icons=true&border_color=22272e&bg_color=22272e&title_color=8f989f&icon_color=b55c5e&text_color=8f989f&include_all_commits=true count_private=true"/></div>
+<div><img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnomei&layout=compact&langs_count=7&border_color=22272e&bg_color=22272e&title_color=8f989f&text_color=8f989f&icon_color=b55c5e"/><img height="120em" src="https://github-readme-stats.vercel.app/api?username=bnomei&show_icons=true&border_color=22272e&bg_color=22272e&title_color=8f989f&icon_color=b55c5e&text_color=8f989f&include_all_commits=true&count_private=true"/></div>
