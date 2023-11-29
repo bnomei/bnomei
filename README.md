@@ -3,8 +3,8 @@
 My name is Bruno Meilick.
 
 - I work as a freelance web-developer using [Kirby 3 CMS](https://getkirby.com) and [Laravel](laravel.com).
-- I create opensource, high quality Kirby CMS (Version 3 and 4) [plugins](https://getkirby.com/plugins/bnomei).
-- You can hire me to [build your website or improve the performance](https://forum.getkirby.com/t/remember-this-caching-in-kirby/23705) of your Kirby 3 CMS project.
+- I create opensource, high quality Kirby CMS [plugins](https://getkirby.com/plugins/bnomei).
+- You can hire me to [build your website or improve the performance](https://forum.getkirby.com/t/remember-this-caching-in-kirby/23705) of your Kirby CMS project.
 <!-- - and small indie games on [Itch.io](https://bnomei.itch.io). -->
 
 <div><br><a href="https://getkirby.com/partners/bruno-meilick" title="Visit my partner profile"><img height="60em" src="https://raw.githubusercontent.com/bnomei/bnomei/main/kirby-certified-partner-light.svg"/></a><br><br></div>
