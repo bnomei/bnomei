@@ -3,7 +3,7 @@
 My name is Bruno Meilick. I live in central Ireland with my wife and four kids.
 
 - Graduated in Interaction Design from Zurich University of the Arts.
-- I work as a freelance web developer using [Kirby CMS](https://getkirby.com) and [Laravel](https://laravel.com).
+- I work as a freelance web developer using [Kirby CMS](https://getkirby.com), [Leaf](https://leafphp.dev/) and [Laravel](https://laravel.com).
 - Since 2015, I have created open-source, high-quality Kirby CMS [plugins](https://plugins.getkirby.com/bnomei).
 - You can [hire me](mailto:hello@bnomei.com) to build your website or improve the performance of your Kirby CMS project.
 - My paid extension to Kirby CMS called [Klub](https://klub.bnomei.com) supports paywalls, memberships, and subscriptions via Stripe.
