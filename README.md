@@ -8,6 +8,7 @@ My name is Bruno Meilick. I live in central Ireland with my wife and four kids.
 - You can [hire me](mailto:hello@bnomei.com) to build your website or [get and audit and improve the performance](https://audit.bnomei.com) of your Kirby CMS project.
 - My paid extension to Kirby CMS called [Kart](https://kart.bnomei.com) provides a streamlined E-Commerce solution for Gumroad, LemonSqueeze, Mollie, Paddle, PayPal, Snipcart and Stripe.
 - My paid extension to Kirby CMS called [Klub](https://klub.bnomei.com) supports paywalls, memberships, and subscriptions via Stripe.
+- German/English
 
 ### Expertise
 - Performance optimisations
