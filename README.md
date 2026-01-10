@@ -28,5 +28,3 @@ My name is Bruno Meilick. I live in central Ireland with my wife and four kids.
 - CI/CD
 
 <div><br><a href="https://getkirby.com/partners/bruno-meilick" title="Visit my partner profile"><img height="60em" src="https://raw.githubusercontent.com/bnomei/bnomei/main/kirby-certified-partner-light.svg"/></a><br><br></div>
-
-<div><img height="120em" src="https://github-readme-stats.vercel.app/api?username=bnomei&show_icons=true&border_color=22272e&bg_color=22272e&title_color=8f989f&icon_color=b55c5e&text_color=8f989f&include_all_commits=true&count_private=true"/></div>
