@@ -14,6 +14,7 @@ My name is Bruno Meilick. I live in central Ireland with my wife and four kids.
 - German/English
 
 ### Expertise
+- MCP Servers
 - Agentic tooling & prompt engineering
 - Performance optimisations
 - Unit and Browser testing 
