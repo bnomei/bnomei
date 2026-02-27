@@ -14,10 +14,10 @@ My name is Bruno Meilick. I live in central Ireland with my wife and four kids.
 - German/English
 
 ### Expertise
+- Agentic tooling & prompt engineering
 - Performance optimisations
 - Unit and Browser testing 
 - LLM and website analytics
-- Prompt Engineering
 - A/B testing, feature flags
 - Import/export/migration of data
 - Webshop/payment and subscriptions
