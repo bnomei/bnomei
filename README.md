@@ -23,7 +23,7 @@ Designing spec-driven services, AI workflows, and developer tooling that enable 
 - Rust (Axum, Leptos, CLI tooling)
 - WASM tooling and modular runtime design
 - PHP (Kirby CMS, Laravel)
-- TypeScript (Next.js)
+- TypeScript (vinext, Next.js, Svelte)
 - Tailwind CSS
 
 **Agent & AI Engineering**
