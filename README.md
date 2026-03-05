@@ -15,6 +15,7 @@
 
 ### Open-Source Rust & AI Tooling
 Actively building the agent-native ecosystem and developer CLI/TUI tools in Rust:
+- 📸 [zeuxis](https://github.com/bnomei/zeuxis): Let AI agents capture screenshots themselves via MCP
 - ⚖️ [anapao](https://github.com/bnomei/anapao): Deterministic Rust testing utility for simulation and stochastic workflows.
 - 🧜‍♀️ [nereid](https://github.com/bnomei/nereid): Create and explore Mermaid diagrams in collaboration with AI agents (TUI + MCP Server).
 - 🖥️ [tmux-mcp](https://github.com/bnomei/tmux-mcp): MCP server that lets autonomous agents create sessions, split panes, run commands, and capture output via TMUX.
