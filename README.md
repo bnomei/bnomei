@@ -49,7 +49,7 @@ Actively building the agent-native ecosystem and developer CLI/TUI tools in Rust
 
 - **15+ Years in Production:** Extensive experience building production systems, SaaS architectures, and optimizing web system performance.
 - **System Auditing:** Conducting specialized **[Kirby CMS Performance Audits](https://audit.bnomei.com)** to help enterprise clients resolve bottlenecks, optimize architecture, and improve caching strategies.
-- **Bridging PHP & AI:** Creator of **[`kirby-mcp`](https://github.com/bnomei/kirby-mcp)**, a CLI-first MCP server for composer-based Kirby projects that allows AI agents to inspect blueprints and interact with the runtime.
+- **Bridging PHP & AI:** Creator of **[kirby-mcp](https://github.com/bnomei/kirby-mcp)**, a CLI-first MCP server for composer-based Kirby projects that allows AI agents to inspect blueprints and interact with the runtime.
 - **Prolific Open-Source Maintainer:** Creator of over **[40+ open-source plugins](https://github.com/bnomei?tab=repositories&q=kirby)** in the Kirby CMS ecosystem.
 - **Commercial Ecosystem Builder:** Creator of flagship enterprise extensions like **[Kart](https://kart.bnomei.com)** (streamlined e-commerce) and **[Klub](https://klub.bnomei.com)** (memberships & paywalls).
 - **Global Reach:** Fluent in German & English, actively partnering with global clients on bespoke system architecture and workflow automation.
