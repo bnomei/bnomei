@@ -21,7 +21,7 @@ Actively building the agent-native ecosystem and developer CLI/TUI tools in Rust
 - 📡 [raymon](https://github.com/bnomei/raymon): Ray logging TUI and MCP Server.
 - 🐛 [ray-dbg](https://github.com/bnomei/ray-dbg): Rust debugging utility for Ray.
 - 🔄 [serde_toon](https://github.com/bnomei/serde_toon): Serde-compatible TOON encoder/decoder.
-- 🧮 [wasm-word-char-counter](https://github.com/bnomei/wasm-word-char-counter): JS WASM lib to count words in txt, md and pdf files.
+- 🧮 [wasm-word-char-counter](https://github.com/bnomei/wasm-word-char-counter): JS WASM lib to count words and characters in txt, md and pdf files.
 
 ---
 
