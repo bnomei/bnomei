@@ -5,9 +5,13 @@
 
 [Website](https://bnomei.com) • [GitHub](https://github.com/bnomei) • [LinkedIn](https://linkedin.com/in/bruno-meilick) • [Kirby Partner](https://getkirby.com/partners/bruno-meilick)
 
+---
+
 ### Status & Availability
 **Currently:** Freelance  
 **Looking for:** Exploring remote opportunities in Rust, AI-native backend, and AI workflow engineering roles starting **Summer 2026**.
+
+---
 
 ### Open-Source Rust & AI Tooling
 Actively building the agent-native ecosystem and developer CLI/TUI tools in Rust:
@@ -18,6 +22,8 @@ Actively building the agent-native ecosystem and developer CLI/TUI tools in Rust
 - 🐛 **[ray-dbg](https://github.com/bnomei/ray-dbg):** Rust debugging utility for Ray.
 - 🔄 **[serde_toon](https://github.com/bnomei/serde_toon):** Serde-compatible TOON encoder/decoder.
 - 🧮 **[wasm-word-char-counter](https://github.com/bnomei/wasm-word-char-counter):** Additional Rust crates bridging agent capabilities and WASM integrations.
+
+---
 
 ### Core Expertise & Technologies
 
@@ -35,6 +41,8 @@ Actively building the agent-native ecosystem and developer CLI/TUI tools in Rust
 - **Cloud & Edge:** Cloudflare, Fly.io, Railway, Shuttle, Ploi, AWS Amplify Gen2.
 - **Data:** PostgreSQL, MongoDB, Redis/Valkey, RedisStack.
 - **Payments:** Stripe, Polar, Mollie, Lemonsqueezy (Subscriptions & SaaS billing).
+
+---
 
 ### Ecosystem Track Record
 
