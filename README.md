@@ -3,7 +3,7 @@
 **Systems builder focused on Rust, Model Context Protocol (MCP), and agent-native AI architectures.**  
 *Designing spec-driven services, AI workflows, and developer tooling that enable reliable multi-step autonomous agents and high-quality production systems.*
 
-[Website](https://bnomei.com) • [GitHub](https://github.com/bnomei) • [LinkedIn](https://linkedin.com/in/bruno-meilick) • [Kirby Partner](https://getkirby.com/partners/bruno-meilick)
+[Crates](https://crates.io/users/bnomei) • [LinkedIn](https://linkedin.com/in/bruno-meilick) • [Kirby Partner](https://getkirby.com/partners/bruno-meilick)
 
 ---
 
