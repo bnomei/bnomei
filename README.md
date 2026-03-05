@@ -15,29 +15,29 @@
 
 ### Open-Source Rust & AI Tooling
 Actively building the agent-native ecosystem and developer CLI/TUI tools in Rust:
-- ⚖️ **[anapao](https://github.com/bnomei/anapao):** Deterministic Rust testing utility for simulation and stochastic workflows.
-- 🧜‍♀️ **[nereid](https://github.com/bnomei/nereid):** Create and explore Mermaid diagrams in collaboration with AI agents (TUI + MCP Server).
-- 🖥️ **[tmux-mcp](https://github.com/bnomei/tmux-mcp) /[`tmux-mcp-rs`](https://github.com/bnomei/tmux-mcp):** MCP server that lets autonomous agents create sessions, split panes, run commands, and capture output via TMUX.
-- 📡 **[raymon](https://github.com/bnomei/raymon):** Ray logging TUI and MCP Server.
-- 🐛 **[ray-dbg](https://github.com/bnomei/ray-dbg):** Rust debugging utility for Ray.
-- 🔄 **[serde_toon](https://github.com/bnomei/serde_toon):** Serde-compatible TOON encoder/decoder.
-- 🧮 **[wasm-word-char-counter](https://github.com/bnomei/wasm-word-char-counter):** Additional Rust crates bridging agent capabilities and WASM integrations.
+- ⚖️ [anapao](https://github.com/bnomei/anapao): Deterministic Rust testing utility for simulation and stochastic workflows.
+- 🧜‍♀️ [nereid](https://github.com/bnomei/nereid): Create and explore Mermaid diagrams in collaboration with AI agents (TUI + MCP Server).
+- 🖥️ [tmux-mcp](https://github.com/bnomei/tmux-mcp): MCP server that lets autonomous agents create sessions, split panes, run commands, and capture output via TMUX.
+- 📡 [raymon](https://github.com/bnomei/raymon): Ray logging TUI and MCP Server.
+- 🐛 [ray-dbg](https://github.com/bnomei/ray-dbg): Rust debugging utility for Ray.
+- 🔄 [serde_toon](https://github.com/bnomei/serde_toon): Serde-compatible TOON encoder/decoder.
+- 🧮 [wasm-word-char-counter](https://github.com/bnomei/wasm-word-char-counter): Additional Rust crates bridging agent capabilities and WASM integrations.
 
 ---
 
 ### Core Expertise & Technologies
 
-**Agent & AI Engineering**
+#### Agent & AI Engineering
 - **Architecture:** Model Context Protocol (MCP) server design, multi-agent workflow orchestration, and context optimization.
 - **Workflows:** AI-assisted Git workflows, pre-commit automation, CI/CD integration, and automated review/test loops.
 - **Specs:** Spec-first development pipelines (JSON Schema, structured outputs), agent skill design, and tool schema interfaces.
 
-**Systems & Languages**
+#### Systems & Languages
 - **Rust:** Axum, Leptos, Shuttle, CLI/TUI tooling, WASM, and modular runtime design.
-- **TypeScript:** Next.js, Svelte, Vercel AI SDK, Tailwind CSS. 
 - **PHP:** Kirby CMS ecosystem, Laravel.
+- **TypeScript:** Next.js, Svelte, Vercel AI SDK, Tailwind CSS. 
 
-**Infrastructure & Deployment**
+#### Infrastructure & Deployment
 - **Cloud & Edge:** Cloudflare, Fly.io, Railway, Shuttle, Ploi, AWS Amplify Gen2.
 - **Data:** PostgreSQL, MongoDB, Redis/Valkey, RedisStack.
 - **Payments:** Stripe, Polar, Mollie, Lemonsqueezy (Subscriptions & SaaS billing).
