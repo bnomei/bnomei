@@ -15,6 +15,7 @@
 
 ### Open-Source Rust & AI Tooling
 Actively building the agent-native ecosystem and developer CLI/TUI tools in Rust:
+- 📋 [ilmari](https://github.com/bnomei/ilmari): Minimal tmux popup radar to track your agents.
 - 🎤 [muninn](https://github.com/bnomei/muninn): AI-native macOS menu bar dictation with a post-recording text pipeline.
 - 📸 [zeuxis](https://github.com/bnomei/zeuxis): Let AI agents capture screenshots themselves via MCP
 - ⚖️ [anapao](https://github.com/bnomei/anapao): Deterministic Rust testing utility for simulation and stochastic workflows.
