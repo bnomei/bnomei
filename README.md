@@ -15,6 +15,7 @@
 
 ### Open-Source Rust & AI Tooling
 Actively building the agent-native ecosystem and developer CLI/TUI tools in Rust:
+- 💡 [ideation-loop](https://github.com/bnomei/ideation-loop): Auto-research ideas
 - 🔮 [frigg](https://github.com/bnomei/frigg): Fast local code intelligence powered by AST Treesitter, SCIP, semantic search and a reranker.
 - 📦 [scip-laravel](https://github.com/bnomei/scip-laravel): Create a tailored SCIP file for Laravel projects.
 - 📋 [ilmari](https://github.com/bnomei/ilmari): Minimal tmux popup radar to track your agents.
