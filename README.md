@@ -9,12 +9,13 @@
 
 ### Status & Availability
 **Currently:** Freelance  
-**Looking for:** Exploring remote opportunities in Rust, AI-native backend, and AI workflow engineering roles starting **Summer 2026**.
+**Looking for:** Exploring remote opportunities in Rust, AI-native backend, and AI workflow engineering roles starting **Fall 2026**.
 
 ---
 
 ### Open-Source Rust & AI Tooling
 Actively building the agent-native ecosystem and developer CLI/TUI tools in Rust:
+- ✈️ [chromewright](https://github.com/bnomei/chromewright): MCP Server for browser automation via Chrome DevTools Protocol 
 - 💡 [ideation-loop](https://github.com/bnomei/ideation-loop): Auto-research ideas
 - 🔮 [frigg](https://github.com/bnomei/frigg): Fast local code intelligence powered by AST Treesitter, SCIP, semantic search and a reranker.
 - 📦 [scip-laravel](https://github.com/bnomei/scip-laravel): Create a tailored SCIP file for Laravel projects.
