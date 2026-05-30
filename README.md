@@ -15,6 +15,7 @@
 
 ### Open-Source Rust & AI Tooling
 Actively building the agent-native ecosystem and developer CLI/TUI tools in Rust:
+- 🗣️ [isimud](https://github.com/bnomei/isimud): Have your agents speak to you
 - 🌺 [orchid](https://github.com/bnomei/orchid): Task-file orchestration helper for coordinating scoped agent work
 - 🎭 [chromewright](https://github.com/bnomei/chromewright): MCP Server for browser automation via Chrome DevTools Protocol 
 - 💡 [ideation-loop](https://github.com/bnomei/ideation-loop): Auto-research ideas
