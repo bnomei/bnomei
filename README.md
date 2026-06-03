@@ -16,6 +16,7 @@
 ### Open-Source Rust & AI Tooling
 Actively building the agent-native ecosystem and developer CLI/TUI tools in Rust:
 - 😤 [vent-mcp](https://github.com/bnomei/vent-mcp): Allow your agents to file their own issue reports
+- 🔃 [cloudconvert-sdk](https://github.com/bnomei/cloudconvert-sdk): Async Rust SDK primitives for the CloudConvert
 - 🗣️ [isimud](https://github.com/bnomei/isimud): Have your agents speak to you
 - 🌺 [orchid](https://github.com/bnomei/orchid): Task-file orchestration helper for coordinating scoped agent work
 - 🎭 [chromewright](https://github.com/bnomei/chromewright): MCP Server for browser automation via Chrome DevTools Protocol 
