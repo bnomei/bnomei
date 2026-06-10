@@ -46,7 +46,7 @@ Actively building the agent-native ecosystem and developer CLI/TUI tools in Rust
 #### Systems & Languages
 - **Rust:** Axum, Leptos, Shuttle, CLI/TUI tooling, WASM, and modular runtime design.
 - **PHP:** Kirby CMS ecosystem, Laravel.
-- **TypeScript:** Next.js, Svelte, Vercel AI SDK, Tailwind CSS. 
+- **TypeScript:** EmDash & Astro, Next.js, Svelte, Vercel AI SDK, Tailwind CSS. 
 
 #### Infrastructure & Deployment
 - **Cloud & Edge:** Cloudflare, Fly.io, Railway, Shuttle, Ploi, AWS Amplify Gen2.
