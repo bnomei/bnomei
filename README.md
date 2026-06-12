@@ -15,17 +15,17 @@
 
 ### Open-Source Rust & AI Tooling
 Actively building the agent-native ecosystem and developer CLI/TUI tools in Rust:
-- 😤 [vent-mcp](https://github.com/bnomei/vent-mcp): Allow your agents to file their own issue reports
-- 🔃 [cloudconvert-sdk](https://github.com/bnomei/cloudconvert-sdk): Async Rust SDK primitives for the CloudConvert
-- 🗣️ [isimud](https://github.com/bnomei/isimud): Have your agents speak to you
-- 🌺 [orchid](https://github.com/bnomei/orchid): Task-file orchestration helper for coordinating scoped agent work
-- 🎭 [chromewright](https://github.com/bnomei/chromewright): MCP Server for browser automation via Chrome DevTools Protocol 
-- 💡 [ideation-loop](https://github.com/bnomei/ideation-loop): Auto-research ideas
+- 😤 [vent-mcp](https://github.com/bnomei/vent-mcp): Allow your agents to file their own issue reports.
+- 🔃 [cloudconvert-sdk](https://github.com/bnomei/cloudconvert-sdk): Async Rust SDK primitives for the CloudConvert.
+- 🗣️ [isimud](https://github.com/bnomei/isimud): Have your agents speak to you.
+- 🌺 [orchid](https://github.com/bnomei/orchid): Task-file orchestration helper for coordinating scoped agent work.
+- 🎭 [chromewright](https://github.com/bnomei/chromewright): MCP Server for browser automation via Chrome DevTools Protocol .
+- 💡 [ideation-loop](https://github.com/bnomei/ideation-loop): Auto-research ideas.
 - 🔮 [frigg](https://github.com/bnomei/frigg): Fast local code intelligence powered by AST Treesitter, SCIP, semantic search and a reranker.
 - 📦 [scip-laravel](https://github.com/bnomei/scip-laravel): Create a tailored SCIP file for Laravel projects.
 - 📋 [ilmari](https://github.com/bnomei/ilmari): Minimal tmux popup radar to track your agents.
 - 🎤 [muninn](https://github.com/bnomei/muninn): AI-native macOS menu bar dictation with a post-recording text pipeline.
-- 📸 [zeuxis](https://github.com/bnomei/zeuxis): Let AI agents capture screenshots themselves via MCP
+- 📸 [zeuxis](https://github.com/bnomei/zeuxis): Let AI agents capture screenshots themselves via MCP.
 - ⚖️ [anapao](https://github.com/bnomei/anapao): Deterministic Rust testing utility for simulation and stochastic workflows.
 - 🧜‍♀️ [nereid](https://github.com/bnomei/nereid): Create and explore Mermaid diagrams in collaboration with AI agents (TUI + MCP Server).
 - 🖥️ [tmux-mcp](https://github.com/bnomei/tmux-mcp): MCP server that lets autonomous agents create sessions, split panes, run commands, and capture output via TMUX.
@@ -34,6 +34,12 @@ Actively building the agent-native ecosystem and developer CLI/TUI tools in Rust
 - 🔄 [serde_toon](https://github.com/bnomei/serde_toon): Serde-compatible TOON encoder/decoder.
 - 🧮 [wasm-word-char-counter](https://github.com/bnomei/wasm-word-char-counter): JS WASM lib to count words and characters in txt, md and pdf files.
 
+### Open-Source Typescript
+
+- 🍱 [emdash-bento](https://github.com/bnomei/emdash-bento): Bento grid field widget for EmDash JSON fields, using Block Builder for nested blocks.
+- 🧱 [emdash-blocks](https://github.com/bnomei/emdash-blocks): JSON block-list field widget for EmDash entries, with normalized block props and visibility state.
+- 🌾 [emdash-fields](https://github.com/bnomei/emdash-fields): Structured JSON fields for EmDash, including object, structure, link, and choices editors.
+  
 ---
 
 ### Core Expertise & Technologies
