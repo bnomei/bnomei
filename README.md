@@ -36,6 +36,9 @@ Actively building the agent-native ecosystem and developer CLI/TUI tools in Rust
 
 ### Open-Source Typescript
 
+- ▶️ [emdash-actions](https://github.com/bnomei/emdash-actions): Action buttons for EmDash fields and dashboards.
+- 🔆 [emdash-akari](https://github.com/bnomei/emdash-akari): resolve exact content targets and query nested JSON beyond EmDash MCP search.
+- 💦 [emdash-taki](https://github.com/bnomei/emdash-taki): HTML head waterfall renderer and dynamic helpers for EmDash.
 - 🍱 [emdash-bento](https://github.com/bnomei/emdash-bento): Bento grid field widget for EmDash JSON fields, using Block Builder for nested blocks.
 - 🧱 [emdash-blocks](https://github.com/bnomei/emdash-blocks): JSON block-list field widget for EmDash entries, with normalized block props and visibility state.
 - 🌾 [emdash-fields](https://github.com/bnomei/emdash-fields): Structured JSON fields for EmDash, including object, structure, link, and choices editors.
