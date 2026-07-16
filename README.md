@@ -15,6 +15,7 @@
 
 ### Open-Source Rust & AI Tooling
 Actively building the agent-native ecosystem and developer CLI/TUI tools in Rust:
+- 🧩 [moirai](https://github.com/bnomei/moirai): Small, deterministic, single-threaded ECS for gamedev.
 - 🪢 [wyrd](https://github.com/bnomei/wyrd): Compose game behavior as validated signal graphs.
 - 🏹 [devana](https://github.com/bnomei/devana): Agent skill to hunt for bugs manually or with goal/loop/schedule.
 - 😤 [vent-mcp](https://github.com/bnomei/vent-mcp): Allow your agents to file their own issue reports.
