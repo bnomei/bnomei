@@ -40,6 +40,7 @@ Actively building the agent-native ecosystem and developer CLI/TUI tools in Rust
 
 ### Open-Source Typescript
 
+- 🛍️ [emdash-mika](https://github.com/bnomei/emdash-mika): EmDash CMS agent-ready commerce primitives for content-led storefronts.
 - ▶️ [emdash-actions](https://github.com/bnomei/emdash-actions): Action buttons for EmDash fields and dashboards.
 - 🔆 [emdash-akari](https://github.com/bnomei/emdash-akari): resolve exact content targets and query nested JSON beyond EmDash MCP search.
 - 💦 [emdash-taki](https://github.com/bnomei/emdash-taki): HTML head waterfall renderer and dynamic helpers for EmDash.
