@@ -15,6 +15,8 @@
 
 ### Open-Source Rust & AI Tooling
 Actively building the agent-native ecosystem and developer CLI/TUI tools in Rust:
+
+- 🦅 [condor](https://github.com/bnomei/condor): Pathfinding for grids, any-angle search, polygonal scenes, navmeshes, replanning, and multi-agent routing.
 - 🛡️ [towershield](https://github.com/bnomei/towershield): Tower middleware that blocks vulnerability-scanner paths before they reach your application.
 - 🧩 [moirai](https://github.com/bnomei/moirai): Small, deterministic, single-threaded ECS for gamedev.
 - 🪢 [wyrd](https://github.com/bnomei/wyrd): Compose game behavior as validated signal graphs.
